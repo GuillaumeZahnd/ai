@@ -38,6 +38,8 @@
 
 • [LawZero](https://lawzero.org)
 
+• [Beneficial AI Foundation](https://www.beneficialaifoundation.org)
+
 • [Centre pour la Sécurité de l'IA](https://www.securite-ia.fr)
 
 # AI history
