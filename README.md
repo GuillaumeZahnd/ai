@@ -28,7 +28,9 @@
 
 ## Non-profit organizations
 
-• [Bulletin of the Atomic Scientists](https://thebulletin.org/disruptive-technologies/)
+• [Future of Life Institute](https://futureoflife.org)
+
+• [Bulletin of the Atomic Scientists](https://thebulletin.org/disruptive-technologies)
 
 • [AI Futures Project](https://ai-futures.org)
 
@@ -40,13 +42,23 @@
 
 • [Beneficial AI Foundation](https://www.beneficialaifoundation.org)
 
+• [Redwood Research](https://www.redwoodresearch.org)
+
 • [Centre pour la Sécurité de l'IA](https://www.securite-ia.fr)
 
 # AI history
 
-## Semantic papers
+## Landmark papers
 
-[*Computing machinery and intelligence*](https://ebiquity.umbc.edu/_file_directory_/papers/1389.pdf) | Alan M. Turing. Mind, 59(236):33–60, 1950.
+• [Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf) | David E. Rumelhart et al. Nature, 323(6088):533–536, 1986.
+
+• [The perceptron: a probabilistic model for information storage and organization in the brain](https://deeplearning.cs.cmu.edu/S23/document/readings/Rosenblatt_1959-09865-001.pdf) | Frank Rosenblatt. Psychological Review, 65(6):386–408, 1958.
+
+• [*Computing Machinery and Intelligence*](https://ebiquity.umbc.edu/_file_directory_/papers/1389.pdf) | Alan M. Turing. Mind, 59(236):33–60, 1950.
+
+## Essays
+
+• [*Can We Survive Technology?*](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf) | John von Neumann (1955)
 
 ## Proposals
 
@@ -57,3 +69,17 @@
 ## Talks
 
 • [*Lighthill Controversy debate*](https://www.aiai.ed.ac.uk/events/lighthill1973) | Sir James Lighthill, Donald Michie, Richard Gregory, John McCarthy (Royal Institution, BBC, 1973)
+
+# AI science
+
+## Landmark papers
+
+• [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Jacob Delvin et al. Conference of the North American chapter of the association for computational linguistics: human language technologies, 1:4171–4186, 2019.
+
+• [Attention is all you need](https://arxiv.org/abs/1706.03762) | Ashish Vaswani et al. Advances in Neural Information Processing Systems, 30, 2017.
+
+• [Mastering the game of Go with deep neural networks and tree search](https://webdocs.cs.ualberta.ca/~hayward/355/masteringgameofgo.pdf) | David Silver et al. Nature, 529(7587):484–489, 2016.
+
+• [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | Ian J. Goodfellow et al. Advances in Neural Information Processing Systems, 27, 2014.
+
+• [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | Diederik P. Kingma et al. International Conference on Learning Representations, 2014.
