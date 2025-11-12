@@ -83,3 +83,41 @@
 • [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | Ian J. Goodfellow et al. Advances in Neural Information Processing Systems, 27, 2014.
 
 • [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | Diederik P. Kingma et al. International Conference on Learning Representations, 2014.
+
+## Books
+
+• [*Neural Networks and Deep Learning*](http://neuralnetworksanddeeplearning.com) | Michael Nielsen (2019)
+
+## Blogs
+
+• [IBM think](https://www.ibm.com/think/artificial-intelligence)
+
+• [Anthropic Transformer Circuits Thread](https://transformer-circuits.pub)
+
+• [The latest research from Google](https://research.google/blog/)
+
+## Libraries
+
+• [PyTorch](https://docs.pytorch.org/docs/stable/index.html)
+
+• [TensorFlow](https://www.tensorflow.org/api_docs/python/tf)
+
+• [JAX](https://docs.jax.dev)
+
+• [Mistral AI](https://docs.mistral.ai/)
+
+• [DeepSeek](https://api-docs.deepseek.com/)
+
+• [Hugging Face](https://huggingface.co/docs/datasets/en/package_reference/main_classes)
+
+• [OpenAI](https://platform.openai.com/docs/overview)
+
+• [Anthropic](https://docs.anthropic.com/en/home)
+
+• [Unsloth](https://docs.unsloth.ai/)
+
+• [Langformers](https://langformers.com/)
+
+• [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
+
+• [Faiss](https://faiss.ai/index.html)
