@@ -74,13 +74,17 @@
 
 ## Landmark papers
 
-• [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Jacob Delvin et al. Conference of the North American chapter of the association for computational linguistics: human language technologies, 1:4171–4186, 2019.
+• [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929) | Alexey Dosovitski et al. International Conference on Learning Representations, 2021.
 
-• [Attention is all you need](https://arxiv.org/abs/1706.03762) | Ashish Vaswani et al. Advances in Neural Information Processing Systems, 30, 2017.
+• [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) | Tom B. Brown et al. Advances in Neural Information Processing Systems, 2017.
 
-• [Mastering the game of Go with deep neural networks and tree search](https://webdocs.cs.ualberta.ca/~hayward/355/masteringgameofgo.pdf) | David Silver et al. Nature, 529(7587):484–489, 2016.
+• [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Jacob Delvin et al. Conference of the North American chapter of the association for computational linguistics: human language technologies, 2019.
 
-• [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | Ian J. Goodfellow et al. Advances in Neural Information Processing Systems, 27, 2014.
+• [Attention is all you need](https://arxiv.org/abs/1706.03762) | Ashish Vaswani et al. Advances in Neural Information Processing Systems, 2017.
+
+• [Mastering the game of Go with deep neural networks and tree search](https://webdocs.cs.ualberta.ca/~hayward/355/masteringgameofgo.pdf) | David Silver et al. Nature, 2016.
+
+• [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | Ian J. Goodfellow et al. Advances in Neural Information Processing Systems, 2014.
 
 • [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | Diederik P. Kingma et al. International Conference on Learning Representations, 2014.
 
