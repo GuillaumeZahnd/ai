@@ -56,6 +56,10 @@
 
 • [*Computing Machinery and Intelligence*](https://ebiquity.umbc.edu/_file_directory_/papers/1389.pdf) | Alan M. Turing. Mind, 59(236):33–60, 1950.
 
+## Books
+
+• [*Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War) | Chris Miller (2022)
+
 ## Essays
 
 • [*Can We Survive Technology?*](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf) | John von Neumann (1955)
