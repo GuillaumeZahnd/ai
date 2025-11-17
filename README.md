@@ -58,7 +58,7 @@
 
 ## Books
 
-• [*Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War) | Chris Miller (2022)
+• [*Chip War: The Fight for the World's Most Critical Technology*](https://en.wikipedia.org/wiki/Chip_War) | Chris Miller (2022)
 
 ## Essays
 
