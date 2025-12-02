@@ -1,3 +1,37 @@
+# AI history
+
+## Landmark papers
+
+• [Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf) | David E. Rumelhart et al. Nature, 323(6088):533–536, 1986.
+
+• [The perceptron: a probabilistic model for information storage and organization in the brain](https://deeplearning.cs.cmu.edu/S23/document/readings/Rosenblatt_1959-09865-001.pdf) | Frank Rosenblatt. Psychological Review, 65(6):386–408, 1958.
+
+• [*Computing Machinery and Intelligence*](https://ebiquity.umbc.edu/_file_directory_/papers/1389.pdf) | Alan M. Turing. Mind, 59(236):33–60, 1950.
+
+## Books
+
+• [*Chip War: The Fight for the World's Most Critical Technology*](https://en.wikipedia.org/wiki/Chip_War) | Chris Miller (2022)
+
+## Essays
+
+• [*Can We Survive Technology?*](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf) | John von Neumann (1955)
+
+## Proposals
+
+• [*Dartmouth Summer Research Project on Artificial Intelligence*](https://www-formal.stanford.edu/jmc/history/dartmouth.pdf) | John McCarty, Marvin Minsky, Nathaniel Rochester, Claude Shannon (Dartmouth College, 1955)
+
+• [*Summer Vision Project*](https://dspace.mit.edu/bitstream/handle/1721.1/6125/AIM-100.pdf) | Seymour Papert (MIT, 1966)
+
+## Talks
+
+• [*Lighthill Controversy debate*](https://www.aiai.ed.ac.uk/events/lighthill1973) | Sir James Lighthill, Donald Michie, Richard Gregory, John McCarthy (Royal Institution, BBC, 1973)
+
+## Documentaries
+
+• [The Thinking Game (2025)](https://www.youtube.com/watch?v=d95J8yzvjbQ)
+
+• [AlphaGo – The Movie (2020)](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+
 # AI safety
 
 ## Open letters
@@ -45,34 +79,6 @@
 • [Redwood Research](https://www.redwoodresearch.org)
 
 • [Centre pour la Sécurité de l'IA](https://www.securite-ia.fr)
-
-# AI history
-
-## Landmark papers
-
-• [Learning representations by back-propagating errors](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf) | David E. Rumelhart et al. Nature, 323(6088):533–536, 1986.
-
-• [The perceptron: a probabilistic model for information storage and organization in the brain](https://deeplearning.cs.cmu.edu/S23/document/readings/Rosenblatt_1959-09865-001.pdf) | Frank Rosenblatt. Psychological Review, 65(6):386–408, 1958.
-
-• [*Computing Machinery and Intelligence*](https://ebiquity.umbc.edu/_file_directory_/papers/1389.pdf) | Alan M. Turing. Mind, 59(236):33–60, 1950.
-
-## Books
-
-• [*Chip War: The Fight for the World's Most Critical Technology*](https://en.wikipedia.org/wiki/Chip_War) | Chris Miller (2022)
-
-## Essays
-
-• [*Can We Survive Technology?*](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf) | John von Neumann (1955)
-
-## Proposals
-
-• [*Dartmouth Summer Research Project on Artificial Intelligence*](https://www-formal.stanford.edu/jmc/history/dartmouth.pdf) | John McCarty, Marvin Minsky, Nathaniel Rochester, Claude Shannon (Dartmouth College, 1955)
-
-• [*Summer Vision Project*](https://dspace.mit.edu/bitstream/handle/1721.1/6125/AIM-100.pdf) | Seymour Papert (MIT, 1966)
-
-## Talks
-
-• [*Lighthill Controversy debate*](https://www.aiai.ed.ac.uk/events/lighthill1973) | Sir James Lighthill, Donald Michie, Richard Gregory, John McCarthy (Royal Institution, BBC, 1973)
 
 # AI science
 
