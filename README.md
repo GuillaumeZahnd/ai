@@ -62,6 +62,8 @@
 
 ## Non-profit organizations
 
+• [FAR.AI](https://www.far.ai/)
+
 • [Future of Life Institute](https://futureoflife.org)
 
 • [Bulletin of the Atomic Scientists](https://thebulletin.org/disruptive-technologies)
